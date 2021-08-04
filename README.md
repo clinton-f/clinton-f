@@ -1,5 +1,5 @@
 # Hello, I'm Clinton. 👋
-## I'm a Husband, Father, Software Engineer 🐱‍💻 (#### Computer Science Major and Game Design Minor) who loves to hack on new projects.
+## I'm a Husband, Father, Software Engineer 🐱‍💻 (Computer Science Major and Game Design Minor) who loves to hack on new projects.
 
 - 📫 How to reach me: http://crfsharp.com
 - 🐱‍💻 I’m currently working on something top secret.
