@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything my 🧠 can handle.  
 - 💬 Ask me about Full stack development, Game design, blah..
 - 🤝 I’m looking to collaborate with others.
-- 🥅 2021 Goals: To contribute more to Open Source projects
+- 🥅 2022 Goals: To contribute more to Open Source projects
 - ⚡ Fun fact: One time I drank a redbull a few minutes after drinking coffee and I couldn't close my eyes👀 for atleast 24hrs...😂
 - 📖 Psalm 9:1
 
