@@ -1,8 +1,8 @@
 # Hello, I'm Clinton. 👋
 ## I'm a Husband, Father, Software Engineer 💻 (Computer Science Major and Game Design Minor) who loves to hack on new projects.
 
-- 📫 How to reach me: http://crfsharp.com
-- 🐱‍💻 I’m currently working on something top secret.
+- 🥷 How to reach me: http://clintonfabian.com
+- 👨‍💻 I’m currently working on something top secret.
 - 🌱 I’m currently learning everything my 🧠 can handle.  
 - 💬 Ask me about Full stack development, Game design, blah..
 - 🤝 I’m looking to collaborate with others.
