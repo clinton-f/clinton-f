@@ -1,12 +1,13 @@
 # Hello, I'm Clinton. 👋
 ## I'm a Husband, Father, Software Engineer 💻 (Computer Science Major and Game Design Minor) who loves to hack on new projects.
 
-- 🥷 How to reach me: http://clintonfabian.com
+- 🔗 How to reach me: http://clintonfabian.com
 - 👨‍💻 I’m currently working on something top secret.
 - 🌱 I’m currently learning everything my 🧠 can handle.  
 - 💬 Ask me about Full stack development, Game design, blah..
 - 🤝 I’m looking to collaborate with others.
 - 🥅 2022 Goals: To contribute more to Open Source projects
+- 📝 Note: Some of my cool😎 projects are kept private🤐
 - ⚡ Fun fact: One time I drank a redbull a few minutes after drinking coffee and I couldn't close my eyes👀 for atleast 24hrs...😂
 - 📖 Psalm 9:1
 
