@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: To contribute more to Open Source projects
 - 📝 Note: Some of my cool😎 projects are kept private🤐
 - ⚡ Fun fact: One time I drank a redbull a few minutes after drinking coffee and I couldn't close my eyes👀 for atleast 24hrs...😂
-- 📖 Psalm 9:1
+- 📖 Psalms 9:1
 
 ##
 Languages and Tools:
